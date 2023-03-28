@@ -128,7 +128,7 @@ html {
     top: 5%;
     position: absolute;
     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5) ), url(zdj_2.avif);
-    font-size: 270%;
+    font-size: 250%;
     font-weight: 900;
     border-radius:20px;
 }
@@ -164,7 +164,7 @@ html {
     left: 20%;
     top: 57%;
     color: black;
-    font-size: 300%;
+    font-size: 280%;
     font-weight: 900;
     position: absolute;
     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5) ), url(zdj_5.jpg);
